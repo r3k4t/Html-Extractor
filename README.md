@@ -14,3 +14,6 @@ Linux Example:
 <br>
 
 ![Screenshot at 2020-08-13 10-01-34](https://user-images.githubusercontent.com/69615463/90095003-0daec800-dd4d-11ea-8b2d-403e91e7dfc3.png)
+<br>
+
+![Screenshot at 2020-08-14 15-12-23](https://user-images.githubusercontent.com/69615463/90236709-c0138780-de40-11ea-8a8c-dea9a0ad8d50.png)
