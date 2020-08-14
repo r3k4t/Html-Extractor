@@ -13,6 +13,8 @@ Linux Example:
 3.sudo python htmlextractor.py
 <br>
 
+<h4>Screenshots</h4>
+
 ![Screenshot at 2020-08-13 10-01-34](https://user-images.githubusercontent.com/69615463/90095003-0daec800-dd4d-11ea-8b2d-403e91e7dfc3.png)
 <br>
 
