@@ -6,11 +6,12 @@ This python program can extract any website html code.This program can't run fir
 
 Linux Example:
 
-1.git clone https://github.com/r3k4t/Html-Extractor.git
+1.sudo apt install toilet
+2.git clone https://github.com/r3k4t/Html-Extractor.git
 <br>
-2.cd Html-Extractor
+3.cd Html-Extractor
 <br>
-3.sudo python htmlextractor.py
+4.sudo python htmlextractor.py
 <br>
 
 <h4>Screenshots</h4>
