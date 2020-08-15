@@ -6,6 +6,13 @@
 
 This python program can extract any website html code.This program can't run firewall protection website.
 
+### Installation ###
+<ul>
+ <li>Python</li>
+ <li>Toilet</li>
+</ul>
+
+
 ### Getting Started ###
 
  git clone https://github.com/r3k4t/Html-Extractor.git
