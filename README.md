@@ -1,21 +1,21 @@
-### Html Extractor ###
+<h2> Html Extractor </h2>
 
-<h4>Linux</h4>
+<h4> Author : RKT </h4>
+
+### Description ###
 
 This python program can extract any website html code.This program can't run firewall protection website.
 
-Linux Example:
+### Getting Started ###
 
-1.sudo apt install toilet
+ git clone https://github.com/r3k4t/Html-Extractor.git
 <br>
-2.git clone https://github.com/r3k4t/Html-Extractor.git
+ cd Html-Extractor
 <br>
-3.cd Html-Extractor
-<br>
-4.sudo python htmlextractor.py
+ sudo python htmlextractor.py
 <br>
 
-<h4>Screenshots</h4>
+### Screenshots ###
 
 ![Screenshot at 2020-08-13 10-01-34](https://user-images.githubusercontent.com/69615463/90095003-0daec800-dd4d-11ea-8b2d-403e91e7dfc3.png)
 <br>
