@@ -15,7 +15,7 @@ This python program can extract any website html code.This program can't run fir
 ### Setup ###
 
 <ul>
- <li>pip install -r requirements.txt</li>
+ <li>sudo pip install -r requirements.txt</li>
  </ul>
 
 ### Getting Started ###
